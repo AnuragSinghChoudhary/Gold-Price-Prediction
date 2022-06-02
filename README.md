@@ -12,4 +12,4 @@ https://www.kaggle.com/datasets/altruistdelhite04/gold-price-data
 
 Algorithm used : Random Forest Regressor
 
-R squared error :  0.9890066543667877
+R squared error :  0.989
